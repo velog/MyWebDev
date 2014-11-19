@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2014, 8:56:32 PM
+    Author     : Mupo
+*/
+body{
+    color: blue;
+}
+table ,th ,td {
+    border :1px solid #ccc;
+}
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+table select {
+    width: 150px;
+}
+
+table th {
+    color:white;
+    background-color: blue;
+    margin: 0px;
+    width: 200px;
+}
+#header_row {
+      background-color: blue;
+}
+#bottom_row{
+    background-color: aquamarine;
+}
+#errors{
+    color: red;
+}
